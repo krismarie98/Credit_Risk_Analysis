@@ -10,6 +10,9 @@
 ![image](https://user-images.githubusercontent.com/112527054/212568813-5afd0492-49a5-4d78-b0de-c8afb9d4f111.png)
 * Over and Undersampling Results: The accuracy for this is at 54.4%. The precision is at 99%. The recall is at 72.% for high risk and 57% for low risk with and average of 57.%
 ![image](https://user-images.githubusercontent.com/112527054/212568996-958b2dc3-7676-45a3-b7fd-b97b7db7f592.png)
-
+* Balanced Random Forest Classifier Results: The accuracy for this is at 77.4%. The precision is at 99%. The recall is at 66.% for high risk and 88% for low risk with and average of 88.%
+![image](https://user-images.githubusercontent.com/112527054/212569465-fb5d6c8c-cf03-43be-927d-f5f0757fdcb1.png)
+* Easy Ensemble Classifer Results:The accuracy for this is at 93.1%. The precision is at 99%. The recall is at 92.% for high risk and 94% for low risk with and average of 94.%
+![image](https://user-images.githubusercontent.com/112527054/212569538-ab805459-722c-41be-b96a-69b1c3755cd3.png)
 ## Summary:
 ###
