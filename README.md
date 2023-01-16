@@ -15,4 +15,4 @@
 * Easy Ensemble Classifer Results:The accuracy for this is at 93.1%. The precision is at 99%. The recall is at 92.% for high risk and 94% for low risk with and average of 94.%
 ![image](https://user-images.githubusercontent.com/112527054/212569538-ab805459-722c-41be-b96a-69b1c3755cd3.png)
 ## Summary:
-###
+### For this odule challenge we used several different approaches to train and test data in order to decide if an applicant is high risk or low risk. In the first approaches we use the undersampling and oversampling apporaches. In the next steps, the easy ensemble and balanced random forest apporach is used.
